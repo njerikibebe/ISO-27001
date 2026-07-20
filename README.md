@@ -234,25 +234,6 @@ The management review minutes (ISMS-MR-001) follow Clause 9.3 exactly, covering 
 | ISMS-MR-001 | ISMS Management Review Minutes | Audit & Review | .docx | Clause 9.3 |
 
 ---
-
-## Methodology Notes
-
-These are things that are not always obvious from reading the artifacts alone, but reflect the reasoning behind them.
-
-**Why the context comes before the scope, not after.** Many implementers draft a scope statement first and backfill the context to justify it. The standard's logic runs the other way: Clause 4.1 (external/internal issues) and Clause 4.2 (interested party requirements) are the inputs to Clause 4.3 (scope). The context document in this portfolio was built first, and the scope decisions are traceable to specific context findings.
-
-**Why the gap analysis is not the risk assessment.** These are frequently conflated. The gap analysis tells you what controls and processes are missing. The risk assessment tells you which of those gaps represent the most significant risks given the specific threat landscape. The gap analysis came first here, and every HIGH-priority risk in the register traces back to a specific gap analysis finding.
-
-**Why only five policies were written, not eight.** A policy that is written but never read, never attested to, and never enforced is worse than no policy — it creates a false sense of control and audit exposure. For a company of 85 people with no dedicated security function, five substantive policies that will actually be followed are more valuable than a comprehensive suite that creates ongoing maintenance overhead without operational traction.
-
-**Why the IS Policy was revised.** The v1.0 draft named eight specific supporting policies by title. That creates a compliance trap: an auditor who finds one named document missing can raise a nonconformity against the IS Policy itself. The v1.1 revision references the ISMS Document Register as the source of truth instead. This is a small change with meaningful audit implications.
-
-**Why the internal audit found Major Nonconformities.** Because a first-year ISMS does. The Major NCs in this audit are administrative in nature — the policies existed and were substantive; they simply had not been formally signed yet. That is a realistic and correctable finding. An internal audit that concludes "everything is fine" before Stage 1 is a red flag, not a reassurance.
-
-**Why auditor independence is explicitly flagged in both the audit document and this README.** The implementer who builds the ISMS cannot conduct the internal audit of that same ISMS — Clause 9.2 requires objectivity and impartiality, and auditing your own work fails that test directly. This is one of the first things an experienced ISO 27001 practitioner or interviewer would ask when reviewing a portfolio like this. Flagging it proactively — and explaining how it would be handled in a live engagement — demonstrates deeper understanding of the standard than simply having all the documents present.
-
----
-
 ## Regulatory and Standards Context
 
 This portfolio is set in Kenya deliberately. The regulatory environment is specific and consequential:
@@ -274,11 +255,7 @@ This portfolio was developed as part of an active pivot from ICT infrastructure 
 - **ISO/IEC 42001 Lead Implementer** certified
 - **ISC2 CC** — Certified in Cybersecurity
 - **CCNA** — Cisco Certified Network Associate
-- **MSc Information Security** — GRC focus
-
-**Related portfolio repositories:**
-- `aws-portfolio-administrator` — AWS cloud administration labs and governance artifacts
-- `windows-server-2022-portfolio` — 21-day Windows Server 2022 lab curriculum
+- **MSc Information Security**
 
 ---
 
