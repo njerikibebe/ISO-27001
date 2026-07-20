@@ -41,7 +41,7 @@ iso27001-isms-implementation-portfolio/
 ├── README.md
 │
 ├── 00-business-case/
-│   └── Tumaini_Capital_ISO27001_Business_Case.docx
+│   └── ISMS-DOC-000_Business_Case.docx
 │
 ├── 01-context-and-scope/
 │   ├── ISMS-DOC-001_Scope_Statement.docx
@@ -51,13 +51,13 @@ iso27001-isms-implementation-portfolio/
 │   └── isms_scope_boundary_diagram.svg
 │
 ├── 02-gap-analysis/
-│   └── ISMS-DOC-005_Gap_Analysis.xlsx
+│   └── ISMS-DOC-005_ISO27001_Gap_Analysis.xlsx
 │
 ├── 03-risk-assessment/
 │   └── ISMS-DOC-006_Risk_Assessment.xlsx
 │
 ├── 04-risk-treatment-soa/
-│   └── ISMS-DOC-007-008_RTP_SoA.xlsx
+│   └── ISMS-DOC-007_Risk_Treatment_Plan.xlsx
 │
 ├── 05-policies/
 │   ├── ISMS-POL-001_Information_Security_Policy_v1.1.docx
