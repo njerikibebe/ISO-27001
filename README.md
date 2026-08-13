@@ -202,7 +202,7 @@ The management review minutes (ISMS-MR-001) follow Clause 9.3 exactly, covering 
 >
 > ISO/IEC 27001:2022 Clause 9.2 requires that internal auditors be selected to ensure objectivity and impartiality. The person who built the ISMS cannot audit their own work — that is a conflict of interest and would itself be a nonconformity. In a live engagement, the audit report would be produced by an independently appointed auditor: a trained staff member from a function entirely separate from the ISMS implementation (Finance or Operations, for example), an external GRC consultant, or a certification body pre-assessment service.
 >
-> This document is included in the portfolio as a demonstration of internal audit methodology and knowledge of realistic first-year findings — not as a claim that the implementer conducted the audit. The report itself carries a prominent independence disclaimer on page 1, and the Lead Auditor field is left as "To be appointed." Including the document without that transparency would be a credibility problem; including it with the explanation signals something more useful — that the practitioner understands the independence requirement deeply enough to flag it themselves.
+> This document is included in the portfolio as a demonstration of internal audit methodology and knowledge of realistic first-year findings — not as a claim that the implementer conducted the audit. The report itself carries a prominent independence disclaimer on page 1, and the Lead Auditor field is left as "To be appointed." 
 
 ---
 
