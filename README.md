@@ -180,9 +180,6 @@ Five policies were developed. The selection was deliberate: these are the docume
 | ISMS-POL-003 — Incident Response Policy | Full IR lifecycle; ODPC 72-hour notification; evidence preservation | Closes the gap where the CRM incident was handled without a documented process |
 | ISMS-POL-004 — Acceptable Use & BYOD Policy | Systems use; WhatsApp Business rules; BYOD device requirements | Addresses the BYOD risk and WhatsApp data transfer gap; combined because they cover the same population |
 | ISMS-POL-005 — Information Classification Policy | Four-level scheme (Public/Internal/Confidential/Restricted); handling table | DPA 2019 requires appropriate safeguards proportionate to data sensitivity; KYC documents must be explicitly Restricted |
-
-**Design note:** The Information Security Policy went through a revision (v1.0 → v1.1) after the initial draft named eight specific supporting policies. The risk of naming specific documents is that an auditor treats it as a commitment: if any named document doesn't exist, it's a potential nonconformity. The revised version references the ISMS Document Register (ISMS-REG-001) as the single source of truth instead. That change — and the reasoning behind it — is documented here intentionally, because it demonstrates the kind of practical judgment that distinguishes an implementer from a template-filler.
-
 ---
 
 ### Phase 6 — Internal Audit and Management Review
