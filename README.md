@@ -196,8 +196,6 @@ The internal audit (Clause 9.2) was designed as a readiness audit at Month 9 of 
 | Minor Nonconformity | 4 | MFA deployment incomplete; backup recovery untested; logging policy missing; no access review conducted since policy approval |
 | Observation / OFI | 3 | IR tabletop not scheduled; Kisumu physical assessment not started; IS metrics not being collected |
 
-**Why realistic findings matter for a portfolio:** An internal audit that finds nothing is either a sign of a mature ISMS in its fifth year, or an auditor who wasn't thorough. For a Month 9 first-year implementation, three Major NCs around formal approvals and training are entirely credible — and the corrective actions for them are straightforward. Sanitising the findings would make the portfolio look less, not more, credible.
-
 The management review minutes (ISMS-MR-001) follow Clause 9.3 exactly, covering all mandatory inputs and producing documented management decisions including: closing the IS Policy and SoA MNC findings (CEO signed both two weeks before the review), escalating VLAN segmentation to Phase 2 priority, adding quarterly IS steering meetings, and establishing the Stage 1 audit date.
 
 > **A note on auditor independence — and why this is in the portfolio anyway.**
