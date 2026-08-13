@@ -90,7 +90,7 @@ Before any ISMS work begins, the business case must be put to management. ISO/IE
 
 ### Phase 1 — Context and Scope
 
-**Artifacts:** `ISMS-DOC-001` through `ISMS-DOC-004`, `isms_scope_boundary_diagram.svg`
+**Artifacts:** `ISMS-DOC-001` through `ISMS-DOC-004`
 
 Scope definition (Clause 4.3) is not a technical exercise; it is a risk-appetite and resourcing decision that sits with top management. The implementer's role is to facilitate a structured scoping discussion, surface the trade-offs, and draft the resulting scope statement — not to decide the boundary unilaterally.
 
