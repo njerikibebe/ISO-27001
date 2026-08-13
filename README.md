@@ -11,7 +11,7 @@
 
 This portfolio documents a complete, end-to-end ISO/IEC 27001:2022 ISMS implementation — from business case through internal audit and management review — built around a fictional Kenyan digital lending company. Every artifact was produced using the same methodology, document structure, and reasoning process I would apply on a live client engagement.
 
-The goal is not to demonstrate that I can fill in templates. It is to show the analytical judgment behind the work: why a scope boundary was drawn where it was, why certain policies were not written, which controls needed the most urgent treatment and why, and how an auditor would read the resulting documentation. That reasoning trail is what differentiates a practitioner from someone who has passed an exam.
+The goal is not to demonstrate that I can fill in templates. It is to show the analytical judgment behind the work: why a scope boundary was drawn where it was, why certain policies were not written, which controls needed the most urgent treatment and why, and how an auditor would read the resulting documentation. 
 
 **Standards and regulatory context:** ISO/IEC 27001:2022, Kenya Data Protection Act 2019, ODPC guidance on personal data processing, Central Bank of Kenya digital lending guidelines, Computer Misuse and Cybercrimes Act 2018.
 
