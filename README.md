@@ -48,7 +48,6 @@ iso27001-isms-implementation-portfolio/
 │   ├── ISMS-DOC-002_Context_4.1_4.2.docx
 │   ├── ISMS-DOC-003_Boundary_Worksheet.xlsx
 │   ├── ISMS-DOC-004_Scope_Decision_Log.docx
-│   └── isms_scope_boundary_diagram.svg
 │
 ├── 02-gap-analysis/
 │   └── ISMS-DOC-005_ISO27001_Gap_Analysis.xlsx
